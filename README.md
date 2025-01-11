@@ -32,4 +32,4 @@ The Weather Forecast Application is a web-based application built using HTML, CS
 - **OpenWeather API**: For retrieving weather data.
 
 ## License
-This project is licensed under [Your Name].
+This project is licensed under Ankit Raut.
